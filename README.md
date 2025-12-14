@@ -205,6 +205,3 @@ The filters limit the viewing angle of the monitor and the phone. The filters ke
 
 ## Use camera covers
 Even if a hacker gains access, to the camera the hacker cannot see anything.
-
-## Clean your digital footprint
-I use the process to search for myself. I then use the process to ask data-broker sites and public directories to delete my data.
